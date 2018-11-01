@@ -1,7 +1,7 @@
 <strong>Color Game</strong>
 
   </br>
-  <strong>Getting Started</strong></br>
+  <strong>About</strong></br>
   Pure JS and CSS have used. The game focuses on finding the color of the given RGB value. There is no prerequirement</br></br>
   <strong>Author</strong></br>
   Furkan Kursun</br></br>
