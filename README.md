@@ -1,4 +1,4 @@
-<strong>Color Game</strong>
+# Color Game
 
   </br>
   <strong>About</strong></br>
